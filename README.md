@@ -28,5 +28,6 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 
 
 You can install the required libraries using pip:
-`pip install pandas numpy matplotlib seaborn scikit-learn`
+```python
+pip install pandas numpy matplotlib seaborn scikit-learn
 
