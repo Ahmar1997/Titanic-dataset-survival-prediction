@@ -22,6 +22,6 @@ In this project, we apply Logistic Regression to the Titanic dataset to predict 
 
 
 ## Requirements
-Python 3.6+
-Jupyter Notebook (optional, for running the included notebook)
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+Python 3.6+  
+Jupyter Notebook (optional, for running the included notebook)  
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
