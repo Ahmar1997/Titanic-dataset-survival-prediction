@@ -27,5 +27,6 @@ Jupyter Notebook (optional, for running the included notebook)
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
 
 
-This is an `inline code` snippet.
+You can install the required libraries using pip:
+`pip install pandas numpy matplotlib seaborn scikit-learn`
 
