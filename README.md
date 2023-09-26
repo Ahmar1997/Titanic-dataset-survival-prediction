@@ -18,7 +18,7 @@ This project uses the famous Titanic dataset to predict passenger survival using
 
 
 ## Project Description
-In this project, we apply Logistic Regression to the Titanic dataset to predict whether a passenger survived or not based on features such as age, gender, ticket class, and more. Logistic Regression is a popular machine learning algorithm for binary classification tasks, making it an ideal choice for this dataset.
+In this project, we apply Logistic Regression to the Titanic dataset to predict whether a passenger survived or not based on features such as age, gender, ticket class, and more. Logistic Regression is a popular machine learning algorithm for binary classification tasks, making it an ideal choice for this dataset. The first part of the project deals with cleaning the dataset and dealing with missing values by using pandas and seaborn libraries. Next sklearn library is used to apply logistic regression to the cleaned data set to make predictions.
 
 
 ## Requirements
@@ -30,4 +30,12 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 You can install the required libraries using pip:
 ```python
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+## Usage
+1. Open the Jupyter Notebook `Titanic_Prediction_with_Logistic_Regression.ipynb` to follow along with the step-by-step process.  
+2. Alternatively, you can use the Python script `titanic_logistic_regression.py` to run the logistic regression model.  
+Feel free to modify the code, experiment with different features, or even try different machine learning algorithms to improve the prediction accuracy.
+
+## Results
+The project results and insights can be found in the Jupyter Notebook or within the code comments. 
 
