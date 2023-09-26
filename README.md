@@ -30,6 +30,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 You can install the required libraries using pip:
 ```python
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
 ## Usage
 1. Open the Jupyter Notebook `Titanic_Prediction_with_Logistic_Regression.ipynb` to follow along with the step-by-step process.  
