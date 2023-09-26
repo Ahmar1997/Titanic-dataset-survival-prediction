@@ -11,10 +11,8 @@ This project uses the famous Titanic dataset to predict passenger survival using
 ## Table of Contents
 1. Project Description
 2. Requirements
-3. Installation
-4. Usage
-5. Results
-6. Contributing
+3. Usage
+4. Results
 
 
 ## Project Description
