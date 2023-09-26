@@ -31,8 +31,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ## Usage
-1. Open the Jupyter Notebook `Titanic_Prediction_with_Logistic_Regression.ipynb` to follow along with the step-by-step process.  
-2. Alternatively, you can use the Python script `titanic_logistic_regression.py` to run the logistic regression model.  
+1. Open the Jupyter Notebook `Titanic-dataset-survival-prediction.ipynb` to follow along with the step-by-step process.  
+2. Alternatively, you can use the Python script `Titanic-dataset-survival-prediction.py` to run the logistic regression model.  
 Feel free to modify the code, experiment with different features, or even try different machine learning algorithms to improve the prediction accuracy.
 
 ## Results
